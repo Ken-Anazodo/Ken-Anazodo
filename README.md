@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kenneth Anazodo</h1>
+<h1 align="center">Hi! I'm Kenneth Anazodo</h1>
 <h3 align="center">I am a Full-stack Developer based in Lagos, Nigeria.</h3>
 
 <p align="left">
