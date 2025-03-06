@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kenneth Anazodo</h1>
 <h3 align="center">I am a Full-stack Developer based in Lagos, Nigeria.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
